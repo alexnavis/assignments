@@ -1,0 +1,23 @@
+{
+  "name" : "generic_text_and_email_1",
+  "display_name" : "Generic Text and Email",
+  "dataintegration_id" : null,
+  "type" : "assignments",
+  "conditions" : [],
+  "inputs" : null,
+  "outputs" : null,
+  "variables" : [ 
+      {
+          "rule_name" : "strategy5b1fc6013079545c5c48cc02_undefined_undefined_0132652370412",
+          "variable_name" : null,
+          "variable_type" : "String",
+          "assignment_operation" : "return 'Thank you very much for your interest in our company. Unfortunately you did not meet our employment expectations at this time. We will keep your resume and application in our records for future opportunities!'"
+      }, 
+      {
+          "rule_name" : "strategy5b1fc6013079545c5c48cc02_undefined_undefined_0765546921047",
+          "variable_name" : "generic_success_email",
+          "variable_type" : "String",
+          "assignment_operation" : "return 'Congratulations! We would like to invite you for an interview. Please identify a time this week that works for you to come in.'"
+      }
+  ]
+}
