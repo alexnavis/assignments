@@ -2,7 +2,7 @@
   DigiFi's Core Assignments Module for its Loan Origination System
   
   ## Overview
-  The Simple Outputs module is a module of DigiFi's open-source loan origination system ("LOS) and is required to create automated underwriting and verification strategies within the rules engine. 
+  The Simple Outputs module is a module of DigiFi's open-source loan origination system ("LOS") and is required to create automated underwriting and verification strategies within the rules engine. 
   
   Please visit our [Documentation](https://docs.digifi.io/) for comprehensive information on installing and using the platform.
 
